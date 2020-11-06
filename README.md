@@ -1,3 +1,3 @@
-##react-drag&drop
+#react-drag&drop
 
-example: [click](http://AlexR0v.github.io/react-drag-drop)
+example on heroku: [click](https://react-darg-and-drop.herokuapp.com/)
